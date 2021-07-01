@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+
+<html>                          <script>
+
+</script>
+
+<head>
+  <title>pag1</title>
+</head>
+
+
+<body background="Screensot (2).png">
+<form action="b.html"method="get">
+    <h1>Enter your info :</h1>
+ Enter yuor farist name   <input type="text"><br>  <br>
+ Enter yuor uoser name    <input type="text"><br> <br>
+ Enter yuor  password     <input type="password"><br> <br>
+     gnder:<br>
+     <input type="radio"name=" gnder">mail<br>
+     <input type="radio"name=" gnder">  femail<br>
+     <h1> Enter yuor comment:</h1>
+     <textarea name="comment"></textarea><br>
+     <input type="submit" value = "next">
+     <input type="reset"><br>
+                 <a href="Untitled2.htm"> Nextpag</a>
+
+
+
+</form>
+</body>
+
+</html>
